@@ -28,7 +28,7 @@ html {
 
 body {
     font-family: "Sweetie", cursive !important;
-    background: url(../images/shape_1.svg), #ff89db;
+    background: url(../images/shape_1.svg), #dacb00;
     overflow-x: hidden;
 
 }
@@ -38,12 +38,12 @@ body {
 }
 
 .darker {
-    background: #ff6a49;
+    background: #4e9200;
     color: #fff;
 }
 
 .darker2 {
-    background: #f9aede;
+    background: #dacb00;
     color: #fff;
 }
 
@@ -264,7 +264,7 @@ ol {
     width: 8px;
     height: 8px;
     border-radius: 2em 2em 2em 2em;
-    background-color: #FDD7AE;
+    background-color: #dacb00;
     box-shadow: 0 0 5px #fff;
     -webkit-transform-origin: 50% 50%;
     transform-origin: 50% 50%;
