@@ -173,7 +173,7 @@ ol {
     z-index: 99999;
     top: 0;
     left: 0;
-    background: url(../images/1.png), #A7092A;
+    background: url(/SIRGAGA_web.gif), #8aa709;
     background-size: 200px;
     background-repeat: no-repeat;
     background-position: center;
@@ -758,7 +758,7 @@ ol {
     font-weight: bold;
     display: inline-block;
     font-size: 25px;
-    background: #ff89db;
+    background: #fbc531;
     color: #fff;
 
 }
@@ -811,7 +811,7 @@ ol {
 .login-btn:hover,
 .login-btn:focus {
     color: #fff !important;
-    background: #ff89db;
+    background: #fbc531;
     border-color: #A7092A;
 }
 
@@ -954,13 +954,13 @@ nav {
     -moz-transition: padding-top .3s, padding-bottom .3s;
     transition: padding-top .3s, padding-bottom .3s;
     border: none;
-    background: rgb(255 136 223);
+    background: rgb(206, 202, 0);
 }
 
 .shrink {
     animation: .3s ease-in-out;
     animation-name: fadeInDown;
-    background-color: #f9aede;
+    background-color: #c2c500;
     border-bottom: 2px solid #fff;
 }
 
@@ -993,7 +993,7 @@ nav {
     }
 
     .navbar-nav {
-        border-top: 1px solid #ff89db;
+        border-top: 1px solid #c1cf00;
         color: #fff;
         z-index: 1;
         margin-top: 5px;
@@ -1339,7 +1339,7 @@ nav {
 
 .special-head {
     color: #fff;
-    background: #ff89db;
+    background: #c1cf00;
     padding-left: 40px;
     font-size: 25px;
     position: relative;
@@ -3215,7 +3215,7 @@ nav {
 .darky .service_single_content {
     border-radius: 10px;
     text-align: left;
-    background: #f9aede;
+    background: #afac00;
     background-repeat: no-repeat;
     background-position: center;
     box-shadow: none;
@@ -6742,7 +6742,7 @@ body.light-version {
 
 .fuel-features .container.has-shadow {
     padding: 50px 30px;
-    background: #ff89db;
+    background: #c1cf00;
 }
 
 .light-version #scrollUp:before {
